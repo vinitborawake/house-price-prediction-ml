@@ -1,2 +1,6 @@
-# house-price-prediction-ml
-Machine learning model to predict house prices using real-world housing data, with data preprocessing, model training, and a Streamlit web app for real-time predictions.
+# House Price Prediction ML Project
+
+## Steps to run:
+pip install -r requirements.txt
+python train.py
+streamlit run app.py
